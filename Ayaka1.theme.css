@@ -31,7 +31,7 @@
 }
 
 .theme-dark .container-2McqkF {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
 }
 
 .theme-dark .elevationBorderHigh-3drnJX {
@@ -252,7 +252,7 @@
 
 
 .searchResultsWrap-5RVOkx, .messagesPopoutWrap-3zryHW, .container-2ebMPP {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
 }
 
 .searchResult-O9NDji, .messageGroupWrapper-1jf_7C, .messages-23can0, .messageContainer-3VTXBC {
@@ -342,7 +342,7 @@
 
 .menu-1QACrS {
     box-shadow: none;
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
     border-radius: 7px;
 }
 
@@ -531,7 +531,7 @@
 
 
 .container-18GwIk {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
     border-radius: 4px;
 }
 
@@ -689,7 +689,7 @@
 }
 
 .contentWrapper-3vHNP2, .emojiPicker-6YCk8a {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
     box-shadow: none;
 }
 
@@ -811,7 +811,7 @@
 }
 
 .theme-dark .root-g14mjS {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
     box-shadow: none;
 }
 
@@ -927,7 +927,7 @@
 }
 
 .theme-dark .autocomplete-3NRXG8 {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
 }
 
 .disabled-20aT9e {
@@ -1107,7 +1107,7 @@
 
 .userPopout-2j1gM4 {
     box-shadow: none;
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
     border-radius: 3px;
 }
 
@@ -1543,7 +1543,7 @@
 .profileBannerPreview-3mLIdO {
     border-radius: 4px;
     box-shadow: none;
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
 }
 
 .avatarUploaderInner-p38nm2 {
@@ -1896,7 +1896,7 @@
 }
 
 .bd-addon-list .bd-addon-card {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
 }
 
 .bd-meta, .bd-addon-list .bd-description {
@@ -2056,7 +2056,7 @@
 }
 
 .connection-YOVI9j {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
 }
 
 .noIcon-3gSX9V {
@@ -2132,7 +2132,7 @@
 
 .quickswitcher-pKcM9U {
     box-shadow: none;
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background-image: transparent;
     color: white;
 }
 
